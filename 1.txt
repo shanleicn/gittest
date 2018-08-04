@@ -28,7 +28,25 @@ zsl
 211
 
 
+<<<<<<< HEAD
 修改12222
 
 
 delete test.txt
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+修改12222
+
+
+delete test.txt
+=======
+修改1
+>>>>>>> parent of 31c008f... aaa
+=======
+修改12222
+
+
+delete test.txt
+>>>>>>> 8f3b9e1e9dd68005ff7aa3cf79b1a5e042f63cb8
+>>>>>>> 17677e3a22d5e45832bdc78b5ebbae05e99ddcc7
