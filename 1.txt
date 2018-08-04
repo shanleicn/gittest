@@ -29,6 +29,7 @@ zsl
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ÐÞ¸Ä12222
 
 
@@ -36,3 +37,9 @@ delete test.txt
 =======
 ÐÞ¸Ä1
 >>>>>>> parent of 31c008f... aaa
+=======
+ÐÞ¸Ä12222
+
+
+delete test.txt
+>>>>>>> 8f3b9e1e9dd68005ff7aa3cf79b1a5e042f63cb8
