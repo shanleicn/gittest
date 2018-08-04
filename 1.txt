@@ -28,4 +28,11 @@ zsl
 211
 
 
+<<<<<<< HEAD
 ĞŞ¸Ä12222
+
+
+delete test.txt
+=======
+ĞŞ¸Ä1
+>>>>>>> parent of 31c008f... aaa
