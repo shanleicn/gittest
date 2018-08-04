@@ -29,3 +29,6 @@ zsl
 
 
 ÐÞ¸Ä12222
+
+
+delete test.txt
